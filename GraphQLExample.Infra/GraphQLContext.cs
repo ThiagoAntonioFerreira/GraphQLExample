@@ -8,6 +8,6 @@ namespace GraphQLExample.Infra
         {
         }
 
-        public DbSet<Usuario> Usuarios { get; set; }
+        public DbSet<User> Usuarios { get; set; }
     }
 }
