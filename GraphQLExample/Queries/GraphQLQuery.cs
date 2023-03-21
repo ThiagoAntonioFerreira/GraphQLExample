@@ -1,4 +1,6 @@
-﻿namespace GraphQLExample.Queries
+﻿using Newtonsoft.Json.Linq;
+
+namespace GraphQLExample.Queries
 {
     public class GraphQLQuery
     {
